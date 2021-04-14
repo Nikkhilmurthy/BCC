@@ -1,0 +1,11 @@
+﻿county ,city ,state,college,white ,asian ,hispanic,american_indian,black
+Alameda County,Berkeley,California,UC Berkeley ,62.4,15.5,6.2,0.1,3.5
+Yolo County,Davis,California,UC Davis ,62.3,19.6,6.6,0.2,2.2
+Orange County ,Irvine,California,UC Irvine ,57.2,25,6.4,0.2,3
+Los Angeles County ,Los Angeles ,California,UCLA ,55.7,24.1,6.7,0.3,3.9
+Merced County ,Merced,California,UC Merced ,54.1,17.7,15.8,0.6,1.8
+Riverside County ,Riverside ,California ,UC Riverside,53.2,22.7,9.2,0.8,4.2
+San Diego County ,San Diego,California ,UC San Diego ,65.3,21.1,7,0.3,1.9
+San Francisco County ,San Francisco,California,UC San Francisco,58.8,26.6,5.4,0.3,3.1
+Santa Barbara County,Santa Barbara,California,UC Santa Barbara,66.4,12.2,6.5,0.8,2.7
+Santa Cruz County,Santa Cruz,Califoria,UC Santa Cruz,62,13.4,10.8,1.1,3.3
